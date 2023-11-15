@@ -1,11 +1,11 @@
-# SalaryPredictorML/n
+# SalaryPredictorML
 ### Description:
-Welcome to the SalaryPredictorML repository by Raj Vidja. This project uses advanced machine learning to redefine salary determination for new hires at TechWorks Consulting. Consideration of factors like education, experience, role, previous compensation, and academic records ensures fair and competitive salary predictions.n/
+Welcome to the SalaryPredictorML repository by Raj Vidja. This project uses advanced machine learning to redefine salary determination for new hires at TechWorks Consulting. Consideration of factors like education, experience, role, previous compensation, and academic records ensures fair and competitive salary predictions.
 ### Key Features:
 - Predictive model for employee salary determination.
 - Utilizes machine learning algorithms to analyze diverse variables.
 - Enhances objectivity in salary decisions for new hires.
-- Evaluates and optimizes model performance for accuracy./n
+- Evaluates and optimizes model performance for accuracy.
 ### How to Use: 
 - Clone the repository to your local machine.
 - Install the required dependencies listed in the `requirements.txt` file.
