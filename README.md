@@ -80,10 +80,23 @@ If you have git and you know how to use it, you can also clone the repository in
 
 ---
 
-### Contributing:
-Contributions to enhance the model, add new features, or improve existing ones are welcome. Please fork the repository, create a new branch, and submit a pull request.
-### Feedback:
-If you have any suggestions, feedback, or issues, feel free to open an issue or reach out to us. Your input is valuable in refining our salary prediction model.
+## Authors ✍️
+
+I'm Raj Vidja and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
+
+See [github's contributors page](https://github.com/rajvidja/SalaryPredictorML/graphs/contributors) for details.
+
+If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/rajvidja/SalaryPredictorML/issues/new). and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
+
+If you like this tutorial, please [give it a ⭐ star](https://github.com/rajvidja/SalaryPredictorML).
+
+---
+
+## Licence 📜
+
+You may use this tutorial freely at your own risk. See [LICENSE](https://github.com/rajvidja/SalaryPredictorML/blob/fc109e935cf9717e178c15a3986c62bda9b1cbb6/LICENSE).
+
+Copyright (c) 2023 Raj Vidja
 
 ---
 
