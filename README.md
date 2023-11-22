@@ -1,3 +1,8 @@
+<p align="center"> 
+<a href="https://github.com/rajvidja"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=Raj_Vidja&color=ff3300" alt="Last Commit"/></a> 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajvidja%2FSalaryPredictorML%2F&count_bg=%231775B6&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p> 
+
 # SalaryPredictorML
 ### Description:
 Welcome to the SalaryPredictorML repository by Raj Vidja. This project uses advanced machine learning to redefine salary determination for new hires at TechWorks Consulting. Consideration of factors like education, experience, role, previous compensation, and academic records ensures fair and competitive salary predictions.
