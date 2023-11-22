@@ -3,19 +3,26 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajvidja%2FSalaryPredictorML%2F&count_bg=%231775B6&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p> 
 
+---
+
 # Salary Predictor ML with Gradio Interface
 ### Description:
 Welcome to the SalaryPredictorML repository by Raj Vidja. This project uses advanced machine learning to redefine salary determination for new hires at TechWorks Consulting. Consideration of factors like education, experience, role, previous compensation, and academic records ensures fair and competitive salary predictions.
+
+---
+
 ### Key Features:
 - Predictive model for employee salary determination.
 - Utilizes machine learning algorithms to analyze diverse variables.
 - Enhances objectivity in salary decisions for new hires.
 - Evaluates and optimizes model performance for accuracy.
+---
 ### How to Use: 
 - Clone the repository to your local machine.
 - Install the required dependencies listed in the "Install Necessary Modules" section.
 - Follow the Jupyter notebooks for training and evaluation.
 - Explore the model's predictions and insights.
+---
 
 Google Colab Project Link : https://colab.research.google.com/drive/1g0vmMjp7B-eLD1dg8OzWL7luq3DXtRnP
 
@@ -78,6 +85,7 @@ Contributions to enhance the model, add new features, or improve existing ones a
 ### Feedback:
 If you have any suggestions, feedback, or issues, feel free to open an issue or reach out to us. Your input is valuable in refining our salary prediction model.
 
+---
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
