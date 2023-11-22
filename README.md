@@ -64,6 +64,7 @@ Once Installed now we can import it inside our python code.
 
 ### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />
 
+
 1. Go [**`here`**](https://github.com/rajvidja/SalaryPredictorML) and click the ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/rajvidja/SalaryPredictorML/archive/refs/heads/main.zip).
 
     ![Download ZIP](https://github.com/rajvidja/SalaryPredictorML/blob/ecbde83929d08c93dfccdbd9693d1f13fe7594c7/share.png)
