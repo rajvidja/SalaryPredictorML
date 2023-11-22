@@ -13,7 +13,7 @@ Welcome to the SalaryPredictorML repository by Raj Vidja. This project uses adva
 - Evaluates and optimizes model performance for accuracy.
 ### How to Use: 
 - Clone the repository to your local machine.
-- Install the required dependencies listed in the `requirements.txt` file.
+- Install the required dependencies listed in the `Requirements.txt` file.
 - Follow the Jupyter notebooks in the `notebooks` directory for training and evaluation.
 - Explore the model's predictions and insights.
 ### Contributing:
