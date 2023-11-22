@@ -15,3 +15,12 @@ Welcome to the SalaryPredictorML repository by Raj Vidja. This project uses adva
 Contributions to enhance the model, add new features, or improve existing ones are welcome. Please fork the repository, create a new branch, and submit a pull request.
 ### Feedback:
 If you have any suggestions, feedback, or issues, feel free to open an issue or reach out to us. Your input is valuable in refining our salary prediction model.
+<div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h3> 
+<p align="center">
+    <a href="https://www.linkedin.com/in/raj-vidja-23b64822b/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="https://www.instagram.com/_rajvidja" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
+    <a href="https://www.facebook.com/rajvidja01" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
+    <a href="vidjaraj1@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+</p> 
