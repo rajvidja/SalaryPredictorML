@@ -16,6 +16,40 @@ Welcome to the SalaryPredictorML repository by Raj Vidja. This project uses adva
 - Install the required dependencies listed in the `Requirements.txt` file.
 - Follow the Jupyter notebooks in the `notebooks` directory for training and evaluation.
 - Explore the model's predictions and insights.
+
+---
+
+
+## Install Necessary Modules:
+
+Open your [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=flate&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual) Prompt <img alt="propmt" src="https://img.shields.io/badge/-__-000000?style=flat-square&logo=Plex&logoColor=white"> and type and run the following command (individually):
+
+-     pip install numpy
+  
+-     pip install pandas
+  
+-     pip install seaborn
+    
+-     pip install matplotlib
+    
+-     pip install statsmodels
+    
+-     pip install scikit-learn
+   
+-     pip install pydotplus
+   
+-     pip install xgboost
+    
+-     pip install tabulate
+    
+-     pip install colorama
+   
+-     pip install gradio
+
+Once Installed now we can import it inside our python code.
+
+---
+
 ### Contributing:
 Contributions to enhance the model, add new features, or improve existing ones are welcome. Please fork the repository, create a new branch, and submit a pull request.
 ### Feedback:
