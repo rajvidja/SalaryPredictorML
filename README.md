@@ -18,6 +18,9 @@ Welcome to the SalaryPredictorML repository by Raj Vidja. This project uses adva
 - Explore the model's predictions and insights.
 
 Google Colab Project Link : https://colab.research.google.com/drive/1g0vmMjp7B-eLD1dg8OzWL7luq3DXtRnP
+
+![image](https://user-images.githubusercontent.com/77073932/128634391-9ea593fd-87c6-4646-88d6-573adeb3b6a5.png)
+
 ---
 
 
