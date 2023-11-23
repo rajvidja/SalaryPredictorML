@@ -26,9 +26,13 @@ Welcome to the SalaryPredictorML repository by Raj Vidja. This project uses adva
 
 Google Colab Project Link : https://colab.research.google.com/drive/1g0vmMjp7B-eLD1dg8OzWL7luq3DXtRnP
 
-![image](https://github.com/rajvidja/SalaryPredictorML/blob/84d3e9f5a228f6c9240823148bb2f946b4910e0c/Screenshot%202023-11-22%20224438.png)
+<div style="text-align:center">
+    <img src="https://github.com/rajvidja/SalaryPredictorML/blob/84d3e9f5a228f6c9240823148bb2f946b4910e0c/Screenshot%202023-11-22%20224438.png" alt="Image 1">
+</div>
 
-![image](https://github.com/rajvidja/SalaryPredictorML/blob/8f880eec106d6f0ff69513e0150a4a79b5b4fc54/Flow%20chart.png)
+<div style="text-align:center">
+    <img src="https://github.com/rajvidja/SalaryPredictorML/blob/8f880eec106d6f0ff69513e0150a4a79b5b4fc54/Flow%20chart.png" alt="Image 2">
+</div>
 
 ---
 
