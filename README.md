@@ -107,11 +107,11 @@ Copyright (c) 2023 Raj Vidja
 ---
 
 <div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+<h3> Connect with me🤝</a>
 </h3> 
 <p align="center">
-    <a href="https://www.linkedin.com/in/raj-vidja-23b64822b/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/rajvidja/Icons/blob/main/icons8-linkedin-48.png"></a>
-    <a href="https://www.instagram.com/_rajvidja" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/rajvidja/Icons/blob/main/icons8-instagram.svg"></a>
-    <a href="https://www.facebook.com/rajvidja01" target="_blank"><img alt="Facebook" width="25px" src="https://github.com/rajvidja/Icons/blob/main/icons8-facebook-48.png"></a>
-    <a href="vidjaraj1@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/rajvidja/Icons/blob/main/mail.png"></a> 
+    <a href="https://www.linkedin.com/in/raj-vidja-23b64822b/" target="_blank"><img alt="LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
+    <a href="https://www.instagram.com/_rajvidja" target="_blank"><img alt="Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>
+    <a href="https://www.facebook.com/rajvidja01" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/800px-2023_Facebook_icon.svg.png"></a>
+    <a href="vidjaraj1@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a> 
 </p> 
